@@ -3,6 +3,7 @@ package creational.singleton;
 /**
  * @author derek
  * @version 1.0
+ * 单例模式：一个类只允许被实例化一次
  */
 class Singleton {
     private Singleton() {}
